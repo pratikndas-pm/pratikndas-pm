@@ -19,7 +19,7 @@ With a background in product strategy, analytics, and engineering collaboration,
 
 | Product | Domain | Live Demo | Tech Stack |
 |----------|---------|-----------|-------------|
-| 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Pricing & Route Optimization | [View Demo](https://freightsense-ai-freight-advisor.vercel.app/) | Python · Streamlit · OpenAI |
+| 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Pricing & Route Optimization | [View Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Python · Streamlit · OpenAI |
 | 🛡️ [Cargoes Shield – AI Insurance Assistant](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Intelligent Marine Insurance Assistant | [View Demo](https://cargoes-shield-ai-assistant.vercel.app/) | FastAPI · LLM · Python |
 | 🚛 [Road Visibility Platform](https://github.com/pratikndas-pm/Road-Visibility-Platform) | Fleet & ETA Intelligence Dashboard | [View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
 | 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container & Vessel Tracking Visualization | [View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JavaScript |
