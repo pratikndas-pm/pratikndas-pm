@@ -13,7 +13,7 @@ Building smarter digital ecosystems across FreightTech, InsurTech & Logistics
 | 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Rates & Route Optimization | [Live Demo](https://freightsense-ai-freight-advisor.vercel.app/) | Python · Streamlit · OpenAI |
 | 🛡️ [Cargoes Shield – AI Insurance Assistant](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Marine Cargo Insurance AI Assistant | [Live Demo](https://cargoes-shield-ai-assistant.vercel.app/) | FastAPI · Python · LLM |
 | 🚛 [Road Visibility Platform](https://github.com/pratikndas-pm/Road-Visibility-Platform) | Fleet Tracking & AI-based ETA | [Live Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
-| 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container Visibility & KPI Insights | [Live Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JS |
+| 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container Visibility & KPI Insights | [Live Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JS FastAPI · Python · LLM|
 
 ---
 
