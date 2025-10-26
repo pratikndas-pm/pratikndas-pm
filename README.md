@@ -2,7 +2,7 @@
 🚀 **Product Manager | AI, Data & SaaS**  
 Building smarter digital ecosystems across FreightTech, InsurTech & Logistics  
 
-💡 I bridge **business strategy, data science, and technology** to build scalable, AI-driven SaaS products that create measurable business impact.
+💡 I bridge **business strategy, data science, and technology** to build scalable, AI-driven SaaS products that deliver measurable impact.  
 
 ---
 
@@ -10,14 +10,14 @@ Building smarter digital ecosystems across FreightTech, InsurTech & Logistics
 
 | Project | Domain | Live Demo | Stack |
 |----------|---------|-----------|-------|
-| 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Rates & Route Optimization | — | Python · Streamlit · OpenAI |
-| 🛡️ [Cargoes Shield – AI Insurance Assistant](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Marine Cargo Insurance AI Assistant | — | FastAPI · Python · LLM |
+| 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Rates & Route Optimization | [Live Demo](https://freightsense-ai-freight-advisor.vercel.app/) | Python · Streamlit · OpenAI |
+| 🛡️ [Cargoes Shield – AI Insurance Assistant](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Marine Cargo Insurance AI Assistant | [Live Demo](https://cargoes-shield-ai-assistant.vercel.app/) | FastAPI · Python · LLM |
 | 🚛 [Road Visibility Platform](https://github.com/pratikndas-pm/Road-Visibility-Platform) | Fleet Tracking & AI-based ETA | [Live Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
-| 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container Visibility & KPI Insights | — | HTML · JS |
+| 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container Visibility & KPI Insights | [Live Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JS |
 
 ---
 
-## 📈 Product Impact Highlights
+## 📈 Product Impact Highlights  
 - 🚀 +18% simulated uplift in quote-to-booking conversion via AI rate recommendations  
 - 📊 +12% improvement in ETA prediction accuracy  
 - ⏱ 60% reduction in manual freight rate search effort  
@@ -51,9 +51,4 @@ Building smarter digital ecosystems across FreightTech, InsurTech & Logistics
 ---
 
 ## 🌍 Connect with Me  
-[💼 LinkedIn](https://www.linkedin.com/in/pratik-das-80aab027/) · [📁 GitHub Portfolio](https://github.com/pratikndas-pm?tab=repositories) · [📫 Email](mailto:pratikdas@gmail.com)
-
----
-
-### 🧭 Mission
-> To build intelligent, data-driven logistics and insurance platforms that empower global trade ecosystems with real-time visibility and predictive decision intelligence.
+[💼 LinkedIn](https://www.linkedin.com/in/pratik-d)
