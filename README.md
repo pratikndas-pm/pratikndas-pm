@@ -1,40 +1,60 @@
 # 👋 Hi, I'm Pratik N Das  
-### Product Leader | AI, Data & SaaS | FreightTech & InsurTech  
+### Product Leader | AI, Data & SaaS | FreightTech · InsurTech · Agentic Systems  
 
-Building intelligent digital ecosystems that transform logistics and insurance operations through AI, data, and automation.
+Building intelligent digital ecosystems that transform logistics, ports, and insurance operations through AI, automation, and data-driven product strategy.  
 
----
-
-## 🧭 About Me
-I’m a **Product Manager with a strategic and technical mindset**, focused on shaping next-generation AI-driven B2B SaaS products across freight, logistics, and insurance.  
-
-With a background in product strategy, analytics, and engineering collaboration, I specialize in:
-- Driving **AI adoption** in complex business environments.  
-- Turning **data insights** into measurable business outcomes.  
-- Leading **cross-functional teams** to deliver scalable, customer-centric platforms.  
+[![🚀 Explore My AI Lab – Live Demos & Agentic Prototypes](https://img.shields.io/badge/🔬%20AI%20LAB-Explore%20Live%20Demos%20→-1c1c1c?style=for-the-badge&logo=github)](https://github.com/pratikndas-pm?tab=repositories)
 
 ---
 
-## 🧩 Flagship AI Product Initiatives
+## 🧭 About Me  
+I’m a **Product Manager & AI Strategist** passionate about building next-generation **agentic, data-centric SaaS platforms**.  
 
-| Product | Domain | Live Demo | Tech Stack |
-|----------|---------|-----------|-------------|
-| 🧠 [FreightSense – AI Freight Advisor](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive Freight Pricing & Route Optimization | [View Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Python · Streamlit · OpenAI |
-| 🛡️ [Cargoes Shield – AI Insurance Assistant](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Intelligent Marine Insurance Assistant | [View Demo](https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/) | FastAPI · LLM · Python |
-| 🚛 [Road Visibility Platform](https://github.com/pratikndas-pm/Road-Visibility-Platform) | Fleet & ETA Intelligence Dashboard | [View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
-| 📦 [Container Tracking AI Demo](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Container & Vessel Tracking Visualization | [View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JavaScript |
+I bridge the gap between business strategy and AI technology—crafting products that deliver measurable outcomes through intelligent automation, predictive insights, and adaptive user experiences.  
 
----
-
-## 📈 Strategic Product Impact
-- ⚙️ **Improved operational visibility** with AI-driven ETA prediction models  
-- 📊 **+18 % uplift** in simulated quote-to-booking conversion through pricing intelligence  
-- ⏱ **60 % reduction** in manual rate discovery using automation & natural language interfaces  
-- 💡 **Delivered PoC-to-MVP cycles** under 8 weeks through agile prototyping and data-driven iteration  
+My expertise spans:  
+- 🧠 **AI Product Strategy** – LLMs, RAG Systems, Predictive & Generative AI  
+- ⚙️ **Platform Design** – Scalable Freight, Port, and Insurance Tech SaaS  
+- 📊 **Analytics & Measurement** – From product KPIs to AI precision metrics  
+- 🤝 **Cross-Functional Leadership** – Engineering · Data Science · UX · Business  
 
 ---
 
-## 🏅 Professional Endorsements  
+## 🧪 The AI Lab — My R&D Portfolio  
+
+> A curated collection of live, experimental prototypes exploring AI-driven decision intelligence for logistics, ports, and insurance.
+
+| Project | Description | Live Demo | Stack |
+|----------|--------------|-----------|--------|
+| 📦 [**Container Tracking AI Demo**](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Global vessel & container tracking visualization with live ETA simulation | [View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JavaScript |
+| 🚢 [**PortOps Agentic (Streamlit)**](https://github.com/pratikndas-pm/PortOps-Agentic-Streamlit) | Agentic planner for ports — AI simulates berth, crane & yard allocation | *Streamlit Demo* | Python · Streamlit · Plotly |
+| 🤖 [**FreightSense – AI Freight Advisor**](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive rate engine & freight insights chatbot | [Live Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Streamlit · OpenAI API |
+| 🛡️ [**Cargoes Shield – AI Insurance Assistant**](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Intelligent marine insurance copilot | [Try It](https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/) | FastAPI · LLM · Python |
+| 🚛 [**Road Visibility Platform**](https://github.com/pratikndas-pm/Road-Visibility-Platform) | ETA & fleet tracking intelligence dashboard | [View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
+
+---
+
+## ⚙️ The Agentic Vision  
+> Transforming static dashboards into **autonomous, conversational systems** that reason, plan, and act.  
+
+Through **agentic architecture**, my projects explore:  
+- Multi-agent orchestration for logistics operations  
+- Real-time reasoning loops for dynamic ETA, berth, and rate optimization  
+- Data-driven decision pipelines combining AI, APIs, and domain logic  
+
+Each AI Lab prototype represents a **step toward intelligent freight ecosystems** — blending **LLM reasoning**, **port operations logic**, and **data visualization** for truly adaptive workflows.  
+
+---
+
+## 📈 Product Impact Highlights  
+- 📊 **+18 % improvement** in simulated quote-to-booking conversion via pricing intelligence  
+- ⏱ **60 % reduction** in manual freight rate discovery through conversational AI  
+- ⚙️ **Predictive ETAs & crane planning models** for maritime and intermodal operations  
+- 💡 **Rapid AI MVPs (< 8 weeks)** delivering real business proof points  
+
+---
+
+## 🏅 Professional Recommendation  
 
 > “Pratik worked for me for 18 months while I managed two key products within Solera’s Vehicle Solutions division.  
 > He consistently exceeded expectations — managing engineering squads effectively and taking ownership of a critical product module.  
@@ -47,31 +67,29 @@ With a background in product strategy, analytics, and engineering collaboration,
 
 ---
 
-## 🧠 Areas of Expertise  
-**Product Strategy & Leadership** – Vision, Roadmaps, OKRs, P&L Alignment  
-**AI & Data Products** – Predictive Models, LLMs, RAG Systems, Insights Platforms  
-**Analytics & Measurement** – KPIs, Cohort Analysis, User Segmentation  
-**Go-to-Market Enablement** – Pricing, Positioning, Adoption Metrics  
-**Cross-Functional Leadership** – Engineering · UX · Data Science · Commercial Teams  
+## 🧠 Core Expertise  
+**AI & Data Products** — Predictive Models · LLM Agents · RAG Pipelines  
+**Product Leadership** — Vision · Strategy · OKRs · P&L  
+**Analytics & Insights** — KPI Tracking · Cohort Analysis · Funnel Intelligence  
+**Cross-Functional Delivery** — Engineering · UX · Data Science · Business  
 
 ---
 
-## ⚙️ Tools & Platforms  
-Python · FastAPI · Streamlit · Next.js · TypeScript · OpenAI APIs  
-Databricks · Metabase · Amplitude · Productboard · Jira · Confluence  
+## 🧩 Tech & Tools  
+Python · Streamlit · FastAPI · Next.js · OpenAI APIs  
+Databricks · Amplitude · Metabase · Productboard · Jira · Confluence  
 
 ---
 
 ## 📊 GitHub Overview  
-[![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikndas-pm&show_icons=true&theme=transparent)](https://github.com/pratikndas-pm)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikndas-pm&layout=compact&theme=transparent)](https://github.com/pratikndas-pm)
+[![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikndas-pm&show_icons=true&theme=transparent)](https://github.com/pratikndas-pm)
 
 ---
 
-## 🌍 Let’s Connect  
-[💼 LinkedIn](https://www.linkedin.com/in/pratik-das-80aab027/) · [📫 Email](mailto:pratikdas@gmail.com) · [📁 GitHub Portfolio](https://github.com/pratikndas-pm?tab=repositories)
+## 🌍 Connect  
+[💼 LinkedIn](https://www.linkedin.com/in/pratik-das-80aab027/) · [📫 Email](mailto:pratikdas@gmail.com) · [🧪 AI Lab Projects](https://github.com/pratikndas-pm?tab=repositories)
 
 ---
 
-### 🎯 Mission
-> To lead the development of intelligent, data-driven platforms that optimize trade, transport, and insurance ecosystems through measurable product innovation.
+### 🎯 Mission  
+> To pioneer **AI-first product ecosystems** in trade, logistics, and insurance — enabling human-in-the-loop intelligence and agentic automation at scale.  
