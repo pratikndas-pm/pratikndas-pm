@@ -28,7 +28,7 @@ My expertise spans:
 |----------|--------------|-----------|--------|
 | 📦 [**Container Tracking AI Demo**](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Global vessel & container tracking visualization with live ETA simulation | [View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JavaScript |
 | 🚢 [**PortOps Agentic (Streamlit)**](https://github.com/pratikndas-pm/PortOps-Agentic-Streamlit) | Agentic planner for ports — AI simulates berth, crane & yard allocation | https://portops-agentic-2bmagnaorjpcdjyjvd32od.streamlit.app/ | Python · Streamlit · Plotly |
-| 🤖 [**FreightSense – AI Freight Advisor**](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive rate engine & freight insights chatbot | [Live Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Streamlit · OpenAI API |
+| 🤖 [**FreightSense – AI Freight Advisor**](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor) | Predictive rate engine & freight insights chatbot | [Live Demo](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor-) | Streamlit · OpenAI API |
 | 🛡️ [**Cargoes Shield – AI Insurance Assistant**](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Intelligent marine insurance copilot | [Try It](https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/) | FastAPI · LLM · Python |
 | 🚛 [**Road Visibility Platform**](https://github.com/pratikndas-pm/Road-Visibility-Platform) | ETA & fleet tracking intelligence dashboard | [View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
 
