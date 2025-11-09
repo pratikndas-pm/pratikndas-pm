@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratik N Das  
+Hi, I'm Pratik N Das  
 ### Product Leader | AI, Data & SaaS | FreightTech · InsurTech · Agentic Systems  
 
 Building intelligent digital ecosystems that transform logistics, ports, and insurance operations through AI, automation, and data-driven product strategy.  
