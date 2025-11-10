@@ -3,6 +3,7 @@ Hi, I'm Pratik N Das
 
 Building intelligent digital ecosystems that transform logistics, ports, and insurance operations through AI, automation, and data-driven product strategy.  
 CLICK HERE TO SEE MY AI EXPERIMENTS
+
 [![🚀 Explore My AI Lab – Live Demos & Agentic Prototypes](https://img.shields.io/badge/🔬%20AI%20LAB-Explore%20Live%20Demos%20→-1c1c1c?style=for-the-badge&logo=github)](https://github.com/pratikndas-pm?tab=repositories)
 
 ---
