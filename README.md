@@ -3,7 +3,7 @@
 **Product Leader · AI, Data & SaaS**  
 FreightTech • InsurTech • Agentic Systems
 
-Building intelligent digital ecosystems that transform logistics, ports, and insurance operations through AI, automation, and data-driven product strategy.
+Building intelligent products that transform industries through AI strategy, data insights, and scalable solutions
 
 [→ Explore My AI Lab – Live Demos & Prototypes](https://github.com/pratikndas-pm?tab=repositories)
 
