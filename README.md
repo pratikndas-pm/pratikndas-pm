@@ -35,7 +35,7 @@ Agentic planner for ports—AI simulates berth, crane, and yard allocation
 
 **FreightSense – AI Freight Advisor**  
 Predictive rate engine and freight insights chatbot  
-[View Demo](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor-) | Streamlit, OpenAI API
+[View Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Streamlit, OpenAI API
 
 **Cargoes Shield – AI Insurance Assistant**  
 Intelligent marine insurance copilot  
