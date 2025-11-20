@@ -1,9 +1,9 @@
 # Pratik N Das
 
 **Product Leader · AI, Data & SaaS**  
-FreightTech • InsurTech • Agentic Systems
+FreightTech • InsurTech • HealthTech • E-Commerce • Agentic Systems
 
-Building intelligent products that transform industries through AI strategy, data insights, and scalable solutions
+Building intelligent products that transform industries through AI strategy, data insights, and scalable solutions.
 
 [→ Explore My AI Lab – Live Demos & Prototypes](https://github.com/pratikndas-pm?tab=repositories)
 
@@ -15,7 +15,7 @@ Product Manager and AI Strategist focused on next-generation agentic, data-centr
 
 **What I Do:**
 - AI Product Strategy (LLMs, RAG Systems, Predictive & Generative AI)
-- Platform Design (Scalable Freight, Port, and Insurance Tech SaaS)
+- Platform Design (Scalable Freight, Port, Insurance, Healthcare & E-Commerce Tech SaaS)
 - Analytics & Measurement (Product KPIs to AI precision metrics)
 - Cross-Functional Leadership (Engineering, Data Science, UX, Business)
 
@@ -23,27 +23,15 @@ Product Manager and AI Strategist focused on next-generation agentic, data-centr
 
 ## The AI Lab
 
-A curated collection of live, experimental prototypes exploring AI-driven decision intelligence for logistics, ports, and insurance.
+A curated collection of live, experimental prototypes exploring AI-driven decision intelligence for logistics, ports, insurance, healthcare, and e-commerce.
 
-**Container Tracking AI Demo**  
-Global vessel and container tracking visualization with live ETA simulation  
-[View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML, JavaScript
-
-**PortOps Agentic (Streamlit)**  
-Agentic planner for ports—AI simulates berth, crane, and yard allocation  
-[View Demo](https://portops-agentic-2bmagnaorjpcdjyjvd32od.streamlit.app/) | Python, Streamlit, Plotly
-
-**FreightSense – AI Freight Advisor**  
-Predictive rate engine and freight insights chatbot  
-[View Demo](https://claude.ai/public/artifacts/a422c366-398b-43e0-bea0-b6bfa53fa6cf) | Streamlit, OpenAI API
-
-**Cargoes Shield – AI Insurance Assistant**  
-Intelligent marine insurance copilot  
-[Try It](https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/) | FastAPI, LLM, Python
-
-**Road Visibility Platform**  
-ETA and fleet tracking intelligence dashboard  
-[View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js, TypeScript
+| Project | Description | Live Demo | Stack |
+|----------|--------------|-----------|--------|
+| 📦 [**Container Tracking AI Demo**](https://github.com/pratikndas-pm/Container-Tracking-AI-Demo) | Global vessel & container tracking visualization with live ETA simulation | [View Demo](https://container-tracking-ai-demo.vercel.app/) | HTML · JavaScript |
+| 🚢 [**PortOps Agentic (Streamlit)**](https://github.com/pratikndas-pm/PortOps-Agentic-Streamlit) | Agentic planner for ports — AI simulates berth, crane & yard allocation | [View Demo](https://portops-agentic-2bmagnaorjpcdjyjvd32od.streamlit.app/) | Python · Streamlit · Plotly |
+| 🤖 [**FreightSense – AI Freight Advisor**](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor-/blob/main/README.md) | Predictive rate engine & freight insights chatbot | [Live Demo](https://github.com/pratikndas-pm/FreightSense-AI-Freight-Advisor-) | Streamlit · OpenAI API |
+| 🛡️ [**Cargoes Shield – AI Insurance Assistant**](https://github.com/pratikndas-pm/Cargoes-Shield-AI-Assistant) | Intelligent marine insurance copilot | [Try It](https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/) | FastAPI · LLM · Python |
+| 🚛 [**Road Visibility Platform**](https://github.com/pratikndas-pm/Road-Visibility-Platform) | ETA & fleet tracking intelligence dashboard | [View Dashboard](https://road-visibility-platform-xzn7.vercel.app/dashboard) | Next.js · TypeScript |
 
 ---
 
@@ -93,4 +81,4 @@ Python, Streamlit, FastAPI, Next.js, OpenAI APIs, Databricks, Amplitude, Metabas
 
 ---
 
-**Mission:** To pioneer AI-first product ecosystems in trade, logistics, and insurance—enabling human-in-the-loop intelligence and agentic automation at scale.
+**Mission:** To pioneer AI-first product ecosystems in trade, logistics, insurance, healthcare, and e-commerce—enabling human-in-the-loop intelligence and agentic automation at scale.
